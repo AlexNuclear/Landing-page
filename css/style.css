@@ -218,4 +218,92 @@ section.features {
 
 h4 {
     margin: 0;
+    font-size: 48px;
+    color: #425569;
+    font-family: inherit;
+    font-weight: 100;
+    margin-left: 567px;
+    margin-bottom: 72px;
+}
+
+section.gallery {
+    margin-bottom: 189px;
+}
+
+section.comments {
+    font-family: inherit;
+    font-weight: 100;
+    margin-bottom: 102px;    
+}
+
+.wrapper {
+	width: 950px;
+	margin: auto;
+	color: #425569;
+	padding-left: 21px;
+}
+
+.comment {
+    display: inline-block;
+    width: 462px;
+    margin-right: 10px;
+    margin-bottom: 35px;    
+}
+
+.comment img  {
+    float: left;
+    margin-right: 26px;    
+}
+
+.comment h5 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 23px;
+    margin-bottom: 26px;
+}
+
+.comment p {
+	font-size: 14px;
+	line-height: 18px;
+
+}
+
+section.form {
+    color: white;
+    font-family: inherit;
+    font-weight: 100;
+    background-color: #34495e;
+}
+
+.text {
+    border: none;
+    color: #a4adb7;
+    width: 450px;
+    margin-top: 105px; 
+    float: left;
+}
+
+.form {
+    float: right;
+}
+
+.text h6 {
+    font-size: 24px;
+    line-height: 28px;
+    color: white;
+    font-weight: 100;
+}
+
+.text p {
+    font-size: 14px;
+    line-height: 20px;
+    color: #c9ced4;
+    font-weight: 100;
+}
+
+.adress {
+    line-height: 20px;
+    color: #f5f6f6;
+    font-weight: 100;
+    font-size: 14px;
 }
